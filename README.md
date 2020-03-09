@@ -4,3 +4,4 @@ Primer Proyecto Git
 * Fabricio
 * Aaron
 * Dérico
+* Profesor: Davián Aguilar
